@@ -1,4 +1,4 @@
-<AddressBook>
+const xml = `<AddressBook>
 	<Contact>
 		<CustomerID>ALFKI</CustomerID>
 		<CompanyName>Alfreds Futterkiste</CompanyName>
@@ -658,4 +658,6 @@ Suite 5</Address>
 		<Fax>(02) 201 24 68</Fax>
 	</Contact>
 </AddressBook>
+`;
 
+export default xml;
